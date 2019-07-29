@@ -1,0 +1,29 @@
+main {
+    background-color: #ddd;
+}
+
+.items {
+    background-color: #fff;
+}
+
+.row-content {
+    padding: 40px 0px 40px 0px;
+}
+
+.row-footer {
+    padding: 40px 0px 0px 0px;
+}
+
+.gap {
+    margin-top: 40px;
+}
+
+.img-cover {
+    border: 2px solid #eee;
+    padding: 20px 20px 20px 20px;
+}
+
+.footer {
+    background-color: floralwhite;
+}
+
