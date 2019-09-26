@@ -24,6 +24,11 @@ main {
 }
 
 .footer {
-    background-color: floralwhite;
+    background-color: #007bff;
+    color: white;
+}
+
+li > a {
+    color: floralwhite;
 }
 
